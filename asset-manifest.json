@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/18motors/static/css/main.bfa4b86c.css",
-    "main.js": "/18motors/static/js/main.7222017b.js",
+    "main.css": "/18motors/static/css/main.e3d26ae8.css",
+    "main.js": "/18motors/static/js/main.1d55b00f.js",
+    "static/media/contact_bg.jpg": "/18motors/static/media/contact_bg.f02faf373e830f90a092.jpg",
     "static/media/car-14.jpg": "/18motors/static/media/car-14.645098f41af33d6e8cab.jpg",
     "static/media/details-8.jpg": "/18motors/static/media/details-8.aa06a9868aaf9e16f52d.jpg",
     "static/media/car-1.jpeg": "/18motors/static/media/car-1.8831bcacc78dcfcb938a.jpeg",
@@ -59,11 +60,11 @@
     "static/media/details-38.jpg": "/18motors/static/media/details-38.7bc14c002089467d99f8.jpg",
     "static/media/details-37.jpg": "/18motors/static/media/details-37.b997d769b9b3e51e85a4.jpg",
     "index.html": "/18motors/index.html",
-    "main.bfa4b86c.css.map": "/18motors/static/css/main.bfa4b86c.css.map",
-    "main.7222017b.js.map": "/18motors/static/js/main.7222017b.js.map"
+    "main.e3d26ae8.css.map": "/18motors/static/css/main.e3d26ae8.css.map",
+    "main.1d55b00f.js.map": "/18motors/static/js/main.1d55b00f.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfa4b86c.css",
-    "static/js/main.7222017b.js"
+    "static/css/main.e3d26ae8.css",
+    "static/js/main.1d55b00f.js"
   ]
 }
